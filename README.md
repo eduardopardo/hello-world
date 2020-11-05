@@ -2,10 +2,11 @@
 
 ## Presentación
 
-Bienvenidos a...
+Bienvenidos a Juegos en Red
 
 ## Equipo
-Daniel yEduardo
+Daniel Burón
+Eduardo G. Pardo
 
 ## Descripción general
 En este juego
