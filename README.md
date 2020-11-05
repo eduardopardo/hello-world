@@ -10,3 +10,5 @@ Eduardo G. Pardo
 
 ## Descripción general
 En este juego
+
+Esta edición la he hecho en el branch de feature-2
