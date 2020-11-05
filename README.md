@@ -11,4 +11,6 @@ Eduardo G. Pardo
 ## Descripción general
 En este juego
 
-Yo también estoy tocando este archivo
+Esta edición la he hecho en el branch de feature-2
+
+Yo también estoy tocando este archivo desde feature-1
