@@ -12,3 +12,5 @@ Eduardo G. Pardo
 En este juego
 
 Esta edición la he hecho en el branch de feature-2
+
+Yo también estoy tocando este archivo desde feature-1
